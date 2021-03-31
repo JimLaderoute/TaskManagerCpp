@@ -9,7 +9,7 @@
  * How to build on Linux
  *
  * 1) Make sure gcc is installed
- * 2) /grid/common/pkgs/gcc/v6.3.0/bin/g++ -g -m64 -Wall --std=c++11 -o main.exe main.cpp
+ * 2) gcc/v6.3.0/bin/g++ -g -m64 -Wall --std=c++11 -o main.exe main.cpp
  * 3) ./main.exe
  *
  */
